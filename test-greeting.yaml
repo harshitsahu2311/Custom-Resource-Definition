@@ -1,8 +1,8 @@
-apiVersion: gvramana.io/v1alpha1
+apiVersion: hsgroup.io/v1alpha1
 kind: Greeting
 metadata:
-  name: ramana-greeting
+  name: harshit-greeting
 spec:
-  emailToGreet: ramana.gali@gmail.com
-  messageToGreet: Hello
+  emailToGreet: harshit@gmail.com
+  messageToGreet: Namaste
   replicas: 1
